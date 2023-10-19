@@ -27,3 +27,15 @@ body {
     height: 400px;
     padding-top: 80px;
 }
+.kiskep
+{   
+    width: 250px;
+}
+.bal
+{   
+    float: left;
+}
+.jobb
+{
+    float: right;
+}
