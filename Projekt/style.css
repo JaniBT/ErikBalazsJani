@@ -23,19 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: auto;
-    width: 643px;
-    height: 400px;
+    width: auto;
+    height: auto;
     padding-top: 80px;
-}
-.kiskep
-{   
-    width: 250px;
-}
-.bal
-{   
-    float: left;
-}
-.jobb
-{
-    float: right;
 }
