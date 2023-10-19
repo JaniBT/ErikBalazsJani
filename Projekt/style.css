@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
-body {
+body 
+{
     background-color: deepskyblue;
 }
 
-.focim {
+.focim 
+{
     letter-spacing: 15px;
     text-align: center;
     font-family: 'Bebas Neue', sans-serif;
@@ -15,10 +17,12 @@ body {
     margin: auto;
     padding-bottom: 40px;
 }
-#kep {
+#kep 
+{
     text-align: center;
 }
-.kozepre {
+.kozepre 
+{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,27 +44,25 @@ body {
     float: right;
 }
 
-#szoveg1 {
+#szoveg1 
+{
     text-align: center;
     width: 1000px;
     margin: auto;
 }
 
-#szoveg2 { 
+#szoveg2 
+{ 
     text-align: center;
     width: 1000px;
     margin: auto;
 }
 
-.lab{
+.lab
+{
     color: white;
     background-color: black;
     margin: auto;
-    padding: 20px;
+    padding: 30px;
     margin-top: 140px;
-
-}
-a
-{
-    text-decoration: none;
 }
