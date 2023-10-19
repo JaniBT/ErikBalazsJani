@@ -1,9 +1,29 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+
+body {
+    background-color: deepskyblue;
 }
 
 .focim {
+    letter-spacing: 15px;
     text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: bold;
     color: black;
-    
+    background-color: white;
+    margin: auto;
+    padding-bottom: 40px;
+}
+#kep {
+    text-align: center;
+}
+.kozepre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 643px;
+    height: 400px;
+    padding-top: 80px;
 }
