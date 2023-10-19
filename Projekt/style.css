@@ -27,6 +27,18 @@ body {
     height: auto;
     padding-top: 80px;
 }
+.kiskep
+{   
+    width: 250px;
+}
+.bal
+{   
+    float: left;
+}
+.jobb
+{
+    float: right;
+}
 
 #szoveg1 {
     text-align: center;
