@@ -27,3 +27,34 @@ body {
     height: auto;
     padding-top: 80px;
 }
+<<<<<<<<< Temporary merge branch 1
+.kiskep
+{   
+    width: 250px;
+}
+.bal
+{   
+    float: left;
+}
+.jobb
+{
+    float: right;
+=========
+
+#szoveg1 {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+#szoveg2 { 
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.lab{
+    background-color: darkgray;
+    margin: auto;
+>>>>>>>>> Temporary merge branch 2
+}
