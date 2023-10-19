@@ -23,7 +23,24 @@ body {
     justify-content: center;
     align-items: center;
     margin: auto;
-    width: 643px;
-    height: 400px;
+    width: auto;
+    height: auto;
     padding-top: 80px;
+}
+
+#szoveg1 {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+#szoveg2 { 
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.lab{
+    background-color: darkgray;
+    margin: auto;
 }
