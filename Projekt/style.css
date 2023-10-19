@@ -27,6 +27,7 @@ body {
     height: auto;
     padding-top: 80px;
 }
+<<<<<<<<< Temporary merge branch 1
 .kiskep
 {   
     width: 250px;
@@ -38,7 +39,7 @@ body {
 .jobb
 {
     float: right;
-}
+=========
 
 #szoveg1 {
     text-align: center;
@@ -55,9 +56,5 @@ body {
 .lab{
     background-color: darkgray;
     margin: auto;
-    margin-top: 160px;
-}
-a
-{
-    text-decoration: none;
+>>>>>>>>> Temporary merge branch 2
 }
