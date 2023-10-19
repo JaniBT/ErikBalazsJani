@@ -56,6 +56,11 @@ body {
     color: white;
     background-color: black;
     margin: auto;
-    padding: 30px;
+    padding: 20px;
     margin-top: 140px;
+    
+}
+a
+{
+    text-decoration: none;
 }
