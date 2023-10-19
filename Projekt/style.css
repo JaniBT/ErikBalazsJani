@@ -53,7 +53,9 @@ body {
 }
 
 .lab{
-    background-color: darkgray;
+    color: white;
+    background-color: black;
     margin: auto;
-    margin-top: 160px;
+    padding: 30px;
+    margin-top: 140px;
 }
